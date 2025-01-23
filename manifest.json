@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Solar's Swords Pack",
+        "name": "Solar's swords 2",
+        "uuid": "13a83cd1-3bd8-412a-962b-2f47b6e29498",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 21, 50 ]
+    },
+    "modules": [
+        {
+            "description": "Solar's Swords Pack",
+            "type": "resources",
+            "uuid": "df8790b9-6f93-4a79-b8e5-4ebe092807c4",
+            "version": [0, 0, 1]
+        }
+    ]
+}
