@@ -1,17 +1,17 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Solar's Swords Pack test",
-        "name": "Solar's swords test 2",
-        "uuid": "584ca6f2-abfb-49c6-89a2-fb09015758ef",
+        "description": "Solar's white netherite update",
+        "name": "Solar's white netherite update",
+        "uuid": "c6973c73-290c-4102-9c0e-f8018b4172fd",
         "version": [0, 0, 1],
         "min_engine_version": [ 1, 21, 50 ]
     },
     "modules": [
         {
-            "description": "Solar's Swords Pack test",
+            "description": "Solar's white netherite update",
             "type": "resources",
-            "uuid": "ae0b4fff-8f90-443c-a5c9-8dc858d2bcbb",
+            "uuid": "b2708a71-aeba-4dd0-b00c-fb1577783b2b",
             "version": [0, 0, 1]
         }
     ]
