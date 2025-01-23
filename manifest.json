@@ -1,17 +1,17 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Solar's white netherite update",
-        "name": "Solar's white netherite update",
-        "uuid": "c6973c73-290c-4102-9c0e-f8018b4172fd",
+        "description": "Solar's ui update",
+        "name": "Solar's ui update",
+        "uuid": "b84b4f34-7765-4302-bee9-8f08c607d362",
         "version": [0, 0, 1],
         "min_engine_version": [ 1, 21, 50 ]
     },
     "modules": [
         {
-            "description": "Solar's white netherite update",
+            "description": "Solar's ui update",
             "type": "resources",
-            "uuid": "b2708a71-aeba-4dd0-b00c-fb1577783b2b",
+            "uuid": "642b5c46-27c3-44dd-a98c-e9b0d4d12cc9",
             "version": [0, 0, 1]
         }
     ]
