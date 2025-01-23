@@ -1,17 +1,17 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Solar's Swords Pack",
-        "name": "Solar's swords 2",
-        "uuid": "13a83cd1-3bd8-412a-962b-2f47b6e29498",
+        "description": "Solar's Swords Pack test",
+        "name": "Solar's swords test 2",
+        "uuid": "584ca6f2-abfb-49c6-89a2-fb09015758ef",
         "version": [0, 0, 1],
         "min_engine_version": [ 1, 21, 50 ]
     },
     "modules": [
         {
-            "description": "Solar's Swords Pack",
+            "description": "Solar's Swords Pack test",
             "type": "resources",
-            "uuid": "df8790b9-6f93-4a79-b8e5-4ebe092807c4",
+            "uuid": "ae0b4fff-8f90-443c-a5c9-8dc858d2bcbb",
             "version": [0, 0, 1]
         }
     ]
